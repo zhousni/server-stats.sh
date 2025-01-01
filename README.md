@@ -28,3 +28,12 @@ This project provides a script, `server-stats.sh`, to analyze basic server perfo
    ```bash
    git clone https://github.com/zhousni/server-stats.sh.git
    cd server-stats.sh
+   Make the script executable:
+
+2. run the script
+   ```bash
+   chmod +x server-stats.sh
+   Run the script:
+   
+   ```bash
+   ./server-stats.sh
